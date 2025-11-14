@@ -20,11 +20,13 @@ python main.py
 
 ## Game Instructions
 
-- The bet is always set at **10**.
+- The bet is set at **10**.
+- It increases as the user plays.
 - Click **Deal** to start a new hand.
 - Select cards by clicking on them to hold, then click **Draw**.
 - After the draw, click **New Hand** to reset.
 - Click **Deal** again to start the next round.
+- When out of **Credits**, Click **RESET** to start over.
 
 ## Sound Support
 
